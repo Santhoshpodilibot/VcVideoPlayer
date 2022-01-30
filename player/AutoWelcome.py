@@ -12,7 +12,7 @@ async def auto_welcome(bot: Client, msg: Message):
     group_name = msg.chat.title
     group_username = msg.chat.username
     name_button = "🔰 JOIN NOW 🔰"
-    link_button = "https://t.me/DeCodeSupport"
+    link_button = "https://t.me/santhuvc"
     button_name = os.environ.get("WELCOME_BUTTON_NAME", name_button)
     button_link = os.environ.get("WELCOME_BUTTON_LINK", link_button)
     welcome_text = f"Hey {mention}\nWelcome To {group_name}"
@@ -45,7 +45,7 @@ async def auto_welcome(bot: Client, msg: Message):
                    [
                        InlineKeyboardButton
                            (
-                               button_name, url=button_link
+                               ᴏᴡɴᴇʀ, url=https://t.me/santhu_music_bot
                            )
                    ]  
                ]
