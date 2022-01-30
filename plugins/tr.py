@@ -1,7 +1,7 @@
 import os
 
 HELP_TEXT =f"**SETTINGS** \n\n`Click on the buttons below to get documentation about specific modules..`"
-START_TEXT = '👋 `Hey My Name Is` **VcVideoPlayer** \n\n`Lets Enjoy Cinematic View  of Group Video Player With Your Friends ❤️😊`'
+START_TEXT = '👋 `Hey My Name Is` **sᴀɴᴛʜᴏsʜᴠᴄᴘʟᴀʏᴇʀ** \n\n`ᴇɴᴋᴀ ᴇɴᴊᴏʏ ᴄʜᴇʏᴀɴᴅɪ ᴠᴄ ʟᴏ sᴏɴɢs ɴɪ ᴍᴇ ғʀɪᴇɴᴅs ᴛʜᴏ....💓`'
 STREAM_TEXT = '**COMMANDS** \n\n`/stream` - Reply to Video or File That You Want To stream In Vc. \n\n`/stream` - use [yt link] \n\n`/play` - reply to any audio file or utube url.. \n\n`/endstream` - Stop the stream'
 INFO_TEXT =f"**COMMANDS** \n\nGet information about something!\n\n`/info` - reply to any user!\n\n`/whois` - get the information of an user!"
 PASTE_TEXT = '**COMMANDS** \n\nPaste some texts or documents on pasting website!\n\n`/paste` - Reply To Any File!'
