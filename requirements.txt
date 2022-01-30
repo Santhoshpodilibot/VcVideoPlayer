@@ -1,6 +1,5 @@
 tgcrypto
 ffmpeg-python
-git+https://github.com/Makoto-XD/pyrogram@master
 py-tgcalls
 python-dotenv
 youtube-dl
