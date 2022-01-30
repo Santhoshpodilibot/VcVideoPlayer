@@ -1,4 +1,5 @@
 tgcrypto
+pyrogram
 ffmpeg-python
 py-tgcalls
 python-dotenv
