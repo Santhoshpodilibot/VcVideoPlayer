@@ -45,7 +45,7 @@ async def auto_welcome(bot: Client, msg: Message):
                    [
                        InlineKeyboardButton
                            (
-                               ᴏᴡɴᴇʀ, url=https://t.me/santhu_music_bot
+                               button_name, url=button_link
                            )
                    ]  
                ]
